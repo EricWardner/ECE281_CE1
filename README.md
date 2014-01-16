@@ -1,7 +1,7 @@
 ECE281_CE1
 ==========
 
-INTEGRITY
+CE1 thingy
 
 # Truth Table
 
