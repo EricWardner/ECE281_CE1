@@ -86,6 +86,43 @@ BEGIN
 		wait for 100 ns;	
 		
 		-- Complete_ the rest of the truth table below:
+		
+		
+				-- Second line of truth table
+		A <= '0';
+		B <= '1';
+		C <= '0';
+		wait for 100 ns;	
+		
+				-- Second line of truth table
+		A <= '0';
+		B <= '1';
+		C <= '1';
+		wait for 100 ns;	
+		
+				-- Second line of truth table
+		A <= '1';
+		B <= '0';
+		C <= '0';
+		wait for 100 ns;	
+		
+				-- Second line of truth table
+		A <= '1';
+		B <= '0';
+		C <= '1';
+		wait for 100 ns;	
+		
+				-- Second line of truth table
+		A <= '1';
+		B <= '1';
+		C <= '0';
+		wait for 100 ns;	
+		
+				-- Second line of truth table
+		A <= '1';
+		B <= '1';
+		C <= '1';
+		wait for 100 ns;	
 
       wait;
    end process;
